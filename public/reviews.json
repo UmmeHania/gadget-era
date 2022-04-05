@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Sarah Penna",
+        "comment": "Best experience with Gadget-Era's camera. Recommended for snippers. ",
+        "ratings": "★★★★★"
+    },
+    {
+        "id": 2,
+        "name": "Audrey Jenna",
+        "comment": "I am actually overwhelmed with their camera. Cheap in the town!",
+        "ratings": "★★★★★"
+    },
+    {
+        "id": 3,
+        "name": "Peter Parker",
+        "comment": "I like there service.",
+        "ratings": "★★★★"
+    },
+    {
+        "id": 4,
+        "name": "Jhon Smith",
+        "comment": "Got everything super ok. Thanks to Gadget-era for splendid service.",
+        "ratings": "★★★★★"
+    },
+    {
+        "id": 5,
+        "name": "Maxim Gorky",
+        "comment": "Perfect everything and recommended.",
+        "ratings": "★★★★"
+    },
+    {
+        "id": 6,
+        "name": "Richard Gems",
+        "comment": "Get the best ever experience with their Camera. ",
+        "ratings": "★★★★★"
+    }
+]

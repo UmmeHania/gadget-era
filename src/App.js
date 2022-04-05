@@ -1,21 +1,9 @@
-// import './App.css';
-// import image from './Assets/Image/image.jpg'
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <h1 className='text-center'>Start</h1>
-//       <img className='h- w-30' src={image} alt="" />
-//     </div>
-//   );
-// }
-
-// export default App;
 
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Header from './components/Header/Header'
 import Home from './components/Home/Home'
+import Reviews from './components/Reviews/Reviews'
 
 
 
@@ -25,6 +13,8 @@ const App = () => {
       <Header />
       <Routes>
         <Route path='/' element={<Home />}></Route>
+        <Route path='/reviews' element={<Reviews />}></Route>
+
       </Routes>
     </div>
   )
