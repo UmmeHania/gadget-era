@@ -2,7 +2,7 @@
 
 # Assignment 9
 
-## [Live Site Link]()
+## [Live Site Link](https://gadgeterabyhania.netlify.app/)
 
 > About this project:
 
