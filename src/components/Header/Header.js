@@ -1,11 +1,24 @@
-import React from 'react';
+import React from 'react'
+import { Link } from 'react-router-dom'
+
 
 const Header = () => {
     return (
-        <div>
-            <h1>from header</h1>
+        <div className='sticky top-0 bg-white px-12 py-8 flex justify-center md:justify-between'>
+            <div className='hidden md:block'>
+                <Link className='font-sans font-bold text-xl text-gray-600' to='/'>
+                    Gadget Era
+                </Link>
+            </div>
+            <div className='flex gap-4 text-xl'>
+                <Link to='/'>Home</Link>
+                <Link to='/reviews'>Reviews</Link>
+                <Link to='/dashboard'>Dashboard</Link>
+                <Link to='/blogs'>Blogs</Link>
+                <Link to='/about'>About</Link>
+            </div>
         </div>
-    );
-};
+    )
+}
 
-export default Header;
+export default Header
