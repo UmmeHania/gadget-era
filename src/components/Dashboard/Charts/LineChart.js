@@ -52,7 +52,7 @@ const MyLineChart = () => {
                 </LineChart>
             </div>
             <div>
-                <h1 className='text-center font-bold text-xl'>Investment in Monthly</h1>
+                <h1 className='text-center font-bold text-xl'>Investment in Monthly Basis</h1>
                 <BarChart width={800} height={400} data={data}>
                     <Bar dataKey={"investment"} fill="#8884d8" />
                     <XAxis dataKey={"month"}></XAxis>
