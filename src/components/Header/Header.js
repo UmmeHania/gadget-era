@@ -10,7 +10,7 @@ const Header = () => {
                     Gadget Era
                 </Link>
             </div>
-            <div className='flex gap-4 text-xl'>
+            <div className='font-sans flex gap-4 text-xl'>
                 <Link to='/'>Home</Link>
                 <Link to='/reviews'>Reviews</Link>
                 <Link to='/dashboard'>Dashboard</Link>
