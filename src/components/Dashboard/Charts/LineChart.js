@@ -56,7 +56,7 @@ const MyLineChart = () => {
                 <BarChart width={800} height={400} data={data}>
                     <Bar dataKey={"investment"} fill="#8884d8" />
                     <XAxis dataKey={"month"}></XAxis>
-                    <YAxis></YAxis>
+                    <YAxis ></YAxis>
                     <Tooltip />
                 </BarChart>
             </div>
