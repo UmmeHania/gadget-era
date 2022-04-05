@@ -1,12 +1,10 @@
-# [Git Link:](https://github.com/programming-hero-web-course-4/product-analysis-website-UmmeHania)
-
-# Assignment 9
+# Gadget Era
 
 ## [Live Site Link](https://gadgeterabyhania.netlify.app/)
 
 > About this project:
 
-- This Project is a Camera review Website'.
+- This Project is a Camera review Website.
 - Styling Credit goes to Tailwind CSS
 - Charting credit goes to "rechart.org"
 - Here I used Netlify for deploymemt.
